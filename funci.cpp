@@ -12,7 +12,6 @@ int max(int x, int y)
 int main() {
 	int a = 10, b = 20;
 
-	// Calling above function to find max of 'a' and 'b'
 	int m = max(a, b);
 
 	cout << "m is " << m;
