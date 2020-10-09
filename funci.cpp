@@ -3,7 +3,7 @@ using namespace std;
 
 
 //ceated a new branch zoheb and testing
-
+//after adding gitignore
 
 int max(int x, int y)
 {
